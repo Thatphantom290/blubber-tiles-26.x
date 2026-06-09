@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "facing=up": { "model": "blubbertiles:block/red_tongue" },
+    "facing=north": { "model": "blubbertiles:block/red_tongue", "x": 90 },
+    "facing=south": { "model": "blubbertiles:block/red_tongue", "x": 90, "y": 180 },
+    "facing=east": { "model": "blubbertiles:block/red_tongue", "x": 90, "y": 90 },
+    "facing=west": { "model": "blubbertiles:block/red_tongue", "x": 90, "y": 270 }
+  }
+}

@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "blubber-tiles",
+	"id": "blubbertiles",
 	"version": "${version}",
 	"name": "Blubber Tiles",
 	"description": "Adding new blocks and flora into your world!",
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT-License",
-	"icon": "assets/blubber-tiles/icon.png",
+	"icon": "assets/blubbertiles/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [

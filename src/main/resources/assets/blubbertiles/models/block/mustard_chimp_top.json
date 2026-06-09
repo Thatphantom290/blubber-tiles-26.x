@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"render_type": "cutout",
+	"textures": {
+		"0": "blubbertiles:block/mustard_chimp_top",
+		"particle": "blubbertiles:block/mustard_chimp_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [16, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [16, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}
